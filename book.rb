@@ -15,8 +15,10 @@ class Car
     def year 
       @birthyear
     end 
+  end 
     
     #model make and year are the attributes 
     
+    toyota = car.new("camry", "toyota", "2017")
     
     
