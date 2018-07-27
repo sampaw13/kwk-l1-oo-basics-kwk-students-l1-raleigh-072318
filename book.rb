@@ -24,5 +24,5 @@ class Car
   toyota.make 
   toyota.year
     
-    
+    puts "This is my #{toyota.model} It is a #{toyota.make}. It was made in #{toyota.year}"
     
