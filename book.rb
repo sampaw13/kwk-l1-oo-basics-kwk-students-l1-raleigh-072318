@@ -26,3 +26,10 @@ class Car
     
     puts "This is my #{toyota.model} It is a #{toyota.make}. It was made in #{toyota.year}"
     
+    subaru = Car.new ("outback", "subaru", "2016")
+    subaru.model
+    subaru.make
+    subaru.year 
+    
+    puts "This is my #{subaru.m"
+    
