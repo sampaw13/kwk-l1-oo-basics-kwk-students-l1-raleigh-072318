@@ -20,8 +20,8 @@ class Car
     #model make and year are the attributes 
     
     toyota = Car.new("camry", "toyota", "2017")
-toyota.model 
-toyota.make 
+  toyota.model 
+  toyota.make 
 toyota.year
     
     
