@@ -20,9 +20,9 @@ class Car
     #model make and year are the attributes 
     
     toyota = car.new("camry", "toyota", "2017")
-    def toyota.model
-      def toyota.make
-     def toyota.year
+     toyota.model
+     toyota.make
+     toyota.year
     
     
     
